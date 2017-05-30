@@ -1,0 +1,17 @@
+{
+  "name": "news-twitter-node",
+  "version": "0.1.0",
+  "description": "News Twitter For Node",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "twit": "^2.2.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mert Simsek",
+  "license": "ISC"
+}
